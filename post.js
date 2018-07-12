@@ -1,4 +1,3 @@
-//<![CDATA[
 var disqus_shortname = "myanime-space";
 !function(){var e=document.createElement("script");
 e.type="text/javascript",
@@ -17,4 +16,3 @@ $(&#39;body iframe&#39;).toggleClass(&#39;theateractive&#39;);});});
 $(document).ready(function(){$('a[name="pside"]').before($("#pside").html()),$("#pside").html("")});
 $(document).ready(function(){$('a[name="picture"]').before($("#picture").html()),$("#picture").html("")});
 $(document).ready(function(){$('a[name="title"]').before($("#title").html()),$("#title").html("")});
-//]]>
